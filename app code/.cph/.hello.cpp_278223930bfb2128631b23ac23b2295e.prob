@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\code\\hello.cpp","tests":[{"id":1718808062149,"input":"","output":"concac "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\hello.cpp","group":"local","local":true}

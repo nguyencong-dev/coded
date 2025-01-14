@@ -1,0 +1,33 @@
+Sach, OOP, NXB Giao Duc, 50000, 300
+BangDia, Nhac Viet, NXB Thanh Nien, 60000, 60
+Sach, Lap Trinh C++, NXB Tre, 55000, 400
+BangDia, Phim Titanic, NXB Tre, 70000, 120
+Sach, Java Cho Nguoi Moi, NXB Dai Hoc Quoc Gia, 60000, 350
+Sach, Python Co Ban, NXB Kim Dong, 45000, 250
+BangDia, Nhac Quoc Te, NXB Giao Duc, 40000, 45
+Sach, Hoc May, NXB Thanh Nien, 65000, 500
+BangDia, Phim Avengers, NXB Kim Dong, 75000, 150
+BangDia, Phim Anime, NXB Dai Hoc Quoc Gia, 50000, 90
+Sach, Machine Learning, NXB Thanh Nien, 70000, 400
+Sach, HTML va CSS, NXB Kim Dong, 30000, 200
+BangDia, Nhac Co Dien, NXB Giao Duc, 45000, 70
+Sach, Artificial Intelligence, NXB Dai Hoc Quoc Gia, 65000, 350
+BangDia, Phim Kinh Di, NXB Kim Dong, 60000, 110
+Sach, Lich Su Viet Nam, NXB Tre, 55000, 320
+BangDia, Nhac Xuan, NXB Thanh Nien, 35000, 50
+Sach, Toan Cao Cap, NXB Giao Duc, 60000, 280
+Sach, Ly Thuyet Xac Suat, NXB Thanh Nien, 50000, 330
+BangDia, Phim Hanh Dong, NXB Tre, 70000, 140
+Sach, Tinh Toan May Tinh, NXB Kim Dong, 25000, 180
+Sach, Lap Trinh Java, NXB Dai Hoc Quoc Gia, 70000, 500
+BangDia, Nhac Rock, NXB Kim Dong, 35000, 60
+Sach, Tin Hoc Co Ban, NXB Giao Duc, 40000, 220
+BangDia, Phim Hoat Hinh, NXB Tre, 50000, 80
+Sach, Kinh Te Vi Mo, NXB Dai Hoc Quoc Gia, 60000, 290
+BangDia, Nhac Rap, NXB Thanh Nien, 30000, 45
+Sach, Nghia Vu Cong Dan, NXB Kim Dong, 20000, 210
+Sach, Lien Xo, NXB Tre, 35000, 150
+BangDia, Phim Khoa Hoc, NXB Giao Duc, 55000, 100
+Sach, Logic Hoc, NXB Dai Hoc Quoc Gia, 60000, 400
+BangDia, Nhac Jazz, NXB Kim Dong, 450000, 55
+

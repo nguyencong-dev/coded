@@ -1,0 +1,113 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header img{
+    width: 120px;
+}
+header .ads div{
+    border: 1px dashed blue;
+    margin: 2px;
+    padding: 3px;
+    text-align: center;
+    line-height: 100px;
+    background-color: lightcoral;
+}
+header .ads div:hover{
+    background-color: palevioletred;
+    color: brown;
+}
+header input{
+    padding: 4px;
+
+}
+header{
+    background-image: url(/web-chuong1/OIP.jpg);
+}
+nav .menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0; 
+    background-color: lightseagreen;
+}
+.menu li{
+
+    border-left: 1px solid black;
+}
+.menu > li>a{
+    text-decoration: none; 
+    padding: 1rem;
+    display: block;
+}
+.menu li:hover{
+    background-color: aqua;
+    color: red;
+}
+.menu{
+    justify-content: flex-start;
+}
+.sach{
+    list-style-type: none; 
+    text-align: center; 
+    display: none;
+    
+}
+.menu li:hover .sach{
+    display: block !important;
+}
+.sach li:hover{
+    background-color: blue;
+}
+.left{
+    width: 20%;
+    align-self: flex-start;
+}
+.right{
+    width: 80%;
+}
+
+.left .books{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.left .books > li >a{
+    text-decoration: none; 
+    padding: 10px;
+    display: block;
+    background-image: linear-gradient(blue,lightblue);
+}
+.left .books > li >a:hover{
+    background-image: linear-gradient(pink,lightblue);
+    color: blueviolet;
+    justify-content: flex-start;
+}
+.left .books > li{
+    border-bottom: 1px solid white;
+}
+.left .books:last-child{
+    border-bottom: none;
+}
+.left h1{
+    text-align: center;
+}
+
+main .left{
+    border-right: 1px solid white;
+}
+main{
+    background-color: lightblue;
+}
+.book{
+    width: 20%;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.books{
+    flex-wrap: wrap;
+}
+.book img{
+    width: 100%;
+}

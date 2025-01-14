@@ -1,0 +1,8 @@
+h1{
+    padding: 1px 2px 3px 200px;
+    border: 10px solid blanchedalmond;
+    border-radius: 30%;
+    /* border: solid; */
+    box-shadow: 3px 5px 10px red;
+    outline: 4px black solid;
+}

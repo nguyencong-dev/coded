@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table style="width: 100%; border: 1px solid black;">
+        <tr>
+            <td rowspan="2">hoten</td>
+            <td colspan="3">diem</td>
+        </tr>
+        <tr>
+            <td>mon1</td>
+            <td>mon2</td>
+            <td>mon3</td>
+        </tr>
+        <tr>
+            <td>duong chuong</td>
+            <td>7</td>
+            <td>6</td>
+            <td>5</td>
+        </tr>
+    </table>
+    <input type="radio" checked="checked" name="demo" id="">a
+    <input type="radio" name="demo" id="">b
+
+    <select name="" id="" multiple="multiple">
+        <option value="a">A</option>
+        <option value="b" selected>B</option>
+        <option value="c" label="C"></option>
+    </select>
+    <input type="file" name="upload" accept="image/*">
+    <br/>
+    <input type="email" name="email">
+    <br>
+    <form action="#" method="" name="">
+        <input type="text" name="username" id="userId" placeholder="nhap username"/>
+        <input type="password" placeholder="nhap password" id="passId" name="password"/>
+    <input type="submit" value="Gui">
+    </form>
+    <button id="change">change</button>
+    <script>
+        let ch = document.getElementById("change");
+        ch.onclick = function(){
+            let bg = document.querySelector("body")
+            bg.style.background = "blue";
+        }
+    </script>
+</body>
+</html>
